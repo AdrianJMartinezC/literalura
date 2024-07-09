@@ -1,6 +1,5 @@
-<h1 align="center"> LITERALURA  </h1>
+<h1 align="center"> ## LITERALURA ## </h1>
 
-## LITERALURA ##
 
 **Literalura** es una aplicación Java que interactúa con la API Gutendex para buscar libros y autores, 
 almacenar datos en una base de datos PostgreSQL, y proporcionar funcionalidades de consulta y estadísticas 
