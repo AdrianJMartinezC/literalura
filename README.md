@@ -1,4 +1,4 @@
-<h1 align="center"> ## LITERALURA ## </h1>
+<h1 align="center">  LITERALURA </h1>
 
 
 **Literalura** es una aplicación Java que interactúa con la API Gutendex para buscar libros y autores, 
